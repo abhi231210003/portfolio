@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Currency Converter",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project is a currency converter built using HTML, CSS, JavaScript, and an API to fetch currency codes and flags for respective countries. Features: Convert between different currencies using real-time exchange rates. View flags and currency codes for each country.",
+    url: "https://github.com/abhi231210003/CureencyConverter",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Rock-paper-scissors",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is Rock-paper-scissors game made by me to sharpen my skills in frontend development.",
+    url: "https://github.com/abhi231210003/Rock-paper-scissors",
   },
   {
-    title: "My Resume Site",
+    title: "Tic-Tac-Toe-Game",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is Tic-Tac-Toe game made by me in JavaScript to sharpen my skills.",
+    url: "https://github.com/abhi231210003/Tic-Tac-Toe-Game",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Tic-Tac-Toe-using-c",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is Tic-Tac-Toe game made by me in c language to sharpen my skills.",
+    url: "https://github.com/abhi231210003/Tic-Tac-Toe-using-c",
   },
 ];
 
