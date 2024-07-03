@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "https://instagram.com/abhishek_kum02",
   linkedIn: "kumarabhishek03",
   medium: "",
-  twitter: "https://x.com/Abhishe15030713",
+  twitter: "Abhishe15030713",
   youTube: "https://www.youtube.com/channel/UCTBPSe9Ck5KhKnbZrGGFjzg",
 };
 
