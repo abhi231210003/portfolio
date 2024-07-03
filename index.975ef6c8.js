@@ -27092,7 +27092,7 @@ var _stylesCss = require("./styles.css");
     email: "abhishekkumar25225@gmail.com",
     gitHub: "https://github.com/abhi231210003",
     instagram: "https://instagram.com/abhishek_kum02",
-    linkedIn: "https://www.linkedin.com/in/kumarabhishek03/",
+    linkedIn: "kumarabhishek03",
     medium: "",
     twitter: "https://x.com/Abhishe15030713",
     youTube: "https://www.youtube.com/channel/UCTBPSe9Ck5KhKnbZrGGFjzg"
