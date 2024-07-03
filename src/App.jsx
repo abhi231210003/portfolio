@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "kumarabhishek03",
   medium: "",
   twitter: "Abhishe15030713",
-  youTube: "https://www.youtube.com/channel/UCTBPSe9Ck5KhKnbZrGGFjzg",
+  youTube: "channel/UCTBPSe9Ck5KhKnbZrGGFjzg",
 };
 
 const primaryColor = "#4E567E";
